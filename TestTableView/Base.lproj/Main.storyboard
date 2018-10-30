@@ -29,14 +29,14 @@
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GK7-IZ-BhM">
-                                                    <rect key="frame" x="15" y="11.5" width="345" height="21"/>
+                                                    <rect key="frame" x="115" y="11.5" width="245" height="21"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                             </subviews>
                                             <constraints>
-                                                <constraint firstItem="GK7-IZ-BhM" firstAttribute="leading" secondItem="3dZ-wC-tAy" secondAttribute="leadingMargin" id="3It-WT-hln"/>
+                                                <constraint firstItem="GK7-IZ-BhM" firstAttribute="leading" secondItem="3dZ-wC-tAy" secondAttribute="leadingMargin" constant="100" id="3It-WT-hln"/>
                                                 <constraint firstAttribute="trailingMargin" secondItem="GK7-IZ-BhM" secondAttribute="trailing" id="epx-dT-Qgy"/>
                                                 <constraint firstItem="GK7-IZ-BhM" firstAttribute="centerY" secondItem="3dZ-wC-tAy" secondAttribute="centerY" id="rhV-RY-99L"/>
                                             </constraints>
