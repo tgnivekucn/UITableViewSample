@@ -1,0 +1,11 @@
+TestTableView/Assets.xcassets/.*
+Pods/Pods.xcodeproj/xcuserdata/*
+Pods/Pods.xcodeproj/xcuserdata/
+TestTableView.xcodeproj/xcuserdata/
+TestTableView.xcodeproj/project.xcworkspace/xcuserdata/*
+TestTableView.xcodeproj/project.xcworkspace/xcshareddata/
+TestTableView.xcworkspace/xcuserdata/*
+.DS_Store
+TestTableView/.DS_Store
+TestTableView/*/.DS_Store
+
